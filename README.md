@@ -1,8 +1,8 @@
 # 🚁FiveM Helicam script
 
 ## ⭐Credits
-[mraes](https://forum.cfx.re/t/release-heli-script/24094)
-rjross2013
+- [mraes](https://forum.cfx.re/t/release-heli-script/24094)
+- rjross2013
 
 ## 📗Installation Guide
 1. Clone the repository or download the latest version
